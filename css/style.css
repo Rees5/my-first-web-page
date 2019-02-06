@@ -1,0 +1,13 @@
+h1 {color: blue;
+    text-align: centre;
+}
+h2 {color: green;
+    font-style: italic;
+    text-align: centre;
+}
+p {
+  font-family: sans-serif;
+}
+ul {
+  line-height: 40px;
+}
