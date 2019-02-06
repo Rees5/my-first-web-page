@@ -5,9 +5,12 @@ h2 {color: green;
   font-style: italic;
   text-align: center;
 }
+body {
+  background-color: brown;
+}
 p {
   font-family: sans-serif;
-  background-color: indigo;
+  text-decoration-color: brown;
 }
 ul {
   line-height: 40px;
