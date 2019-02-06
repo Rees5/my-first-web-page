@@ -1,16 +1,17 @@
-h1 {color: blue;
+h1 {color: indigo;
   text-align: center;
 }
-h2 {color: green;
+h2 {color: brown;
   font-style: italic;
   text-align: center;
 }
 body {
-  background-color: pink;
+  background-position: center;
+  background-color: bisque;
 }
 p {
   font-family: sans-serif;
-  text-decoration-color: brown;
+  color: purple;
 }
 ul {
   line-height: 40px;
